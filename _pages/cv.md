@@ -9,23 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educação
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Ensino Médio - Colégio Dinâmico - 2013
+* Graduanda em Engenharia Ambiental e Sanitária - Universidade Federal de Alagoas - CTEC - 2014
 
-Work experience
+Experiência
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis em áreas de risco geológico alto e muito alto em Maceió - CECA
+  * 2014-2016
+  * Trabalho em campo no Bairro Mutange
+  * Supervisor: PhD. Regla Toujaguez e MsC. Juciela Santos
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Laboratório de Conservação no Século 21 - LACOS 21 - ICBS
+  * 2016-
+  * Bolsista de Iniciação Científica - PIBIC
+  * Supervisor: Ana Malhado e Richard Ladle
+
+* Programa Especial de Capacitação Discente - PEC - CTEC
+  * 2017-
+  * Integrante da Equipe de Marketing
+  * Supervisor: Alexandre Marques e Pedro Leonardo Kunty
   
 Skills
 ======
