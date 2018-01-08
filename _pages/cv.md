@@ -25,12 +25,12 @@ Experiência
   * 2016 -
   * Bolsista de Iniciação Científica - PIBIC
   * Comissão de Comunicação
-  * Supervisor: Ana Malhado e Richard Ladle
+  * Supervisor: Dra. Ana Malhado e Dr. Richard Ladle
 
 * Programa Especial de Capacitação Discente - PEC - CTEC
   * 2017 -
   * Integrante da Equipe de Marketing
-  * Supervisor: Alexandre Marques e Pedro Leonardo Kunty
+  * Supervisor: Dr. Alexandre Marques e Pedro Leonardo Kunty
   
 Conhecimentos
 ======
