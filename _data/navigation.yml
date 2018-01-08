@@ -3,19 +3,19 @@ main:
   - title: " ---------------- "
     url: 
 
-  - title: "   |Sobre mim|    "
+  - title: "    Sobre mim     "
     url: /cv/
 
   - title: " ---------------- "
     url: 
     
-  - title: "      |Blog|      "
+  - title: "       Blog       "
     url: https://medium.com/@nicolli
         
   - title: " ---------------- "
     url: 
     
-  - title: "       |CV|       "
+  - title: "        CV        "
     url: http://lattes.cnpq.br/8219241762500724
     
   - title: " ---------------- " 
