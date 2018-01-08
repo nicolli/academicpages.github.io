@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Home"
+title                    : "Página Principal"
 title_separator          : "-"
 name                     : &name "Nicolli Albuquerque"
 description              : &description "Futura Engenheira Ambiental e Sanitarista, programadora e projeto de escritora"
@@ -103,7 +103,7 @@ author:
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           : "chavedediamante"
+  tumblr           : 
   twitter          : "albuquerquenic"
   vine             :
   weibo            :

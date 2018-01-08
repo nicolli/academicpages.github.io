@@ -1,22 +1,22 @@
 # main links links
 main:
-#  - title: "Publicações"
-#    url: /publications/
+  - title: "          "
+    url: 
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "          "
+    url:
 
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: https://medium.com/@nicolli
-    
-  - title: "CV"
+  - title: "Sobre mim"
     url: /cv/
     
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "          "
+    url: 
+        
+  - title: "  Blog   "
+    url: https://medium.com/@nicolli
+    
+  - title: "          "
+    url: 
+    
+  - title: "          "
+    url: 
