@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Sobre mim"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,17 +17,18 @@ Educação
 Experiência
 ======
 * Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis em áreas de risco geológico alto e muito alto em Maceió - CECA
-  * 2014-2016
+  * 2014 - 2016
   * Trabalho em campo no Bairro Mutange
   * Supervisor: PhD. Regla Toujaguez e MsC. Juciela Santos
 
 * Laboratório de Conservação no Século 21 - LACOS 21 - ICBS
-  * 2016-
+  * 2016 -
   * Bolsista de Iniciação Científica - PIBIC
+  * Comissão de Comunicação
   * Supervisor: Ana Malhado e Richard Ladle
 
 * Programa Especial de Capacitação Discente - PEC - CTEC
-  * 2017-
+  * 2017 -
   * Integrante da Equipe de Marketing
   * Supervisor: Alexandre Marques e Pedro Leonardo Kunty
   
@@ -51,31 +52,4 @@ Conhecimentos
   * CorelDraw
   * Git/Github
   * AutoCAD
-# Mendeley
-# Illustrator
-# INLAND
 
-#Publications
-#======
-#  <ul>{% for post in site.publications %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-Aparições
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-#Site da ufal - Campanha
-#Site da ufal - curso
-#Fala aos calouros
-  
-
-#======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#Service and leadership
-#======
-* Currently signed in to 43 different slack teams
