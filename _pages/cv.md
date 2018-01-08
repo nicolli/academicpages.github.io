@@ -31,33 +31,51 @@ Experiência
   * Integrante da Equipe de Marketing
   * Supervisor: Alexandre Marques e Pedro Leonardo Kunty
   
-Skills
+Conhecimentos
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programação
+  * Python
+  * R
+  * MATLAB
+  * FORTRAN
+  * NCL
+* Geoprocessamento
+  * QGIS
+  * IDRISI
+* Idiomas
+  * Português - Nativo
+  * Inglês - Intermediário
+  * Espanhol - Básico
+* Outros
+  * Microsoft Office: Word, Excel e Powerpoint 
+  * CorelDraw
+  * Git/Github
+  * AutoCAD
+# Mendeley
+# Illustrator
+# INLAND
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
+Aparições
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+#Site da ufal - Campanha
+#Site da ufal - curso
+#Fala aos calouros
   
-Teaching
-======
+
+#======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+#Service and leadership
+#======
 * Currently signed in to 43 different slack teams

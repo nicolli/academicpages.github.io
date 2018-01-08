@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Oi, meu nome é Nicolli, mas geralmente meus amigos me chamam de Nic. Sou estudante de Engenharia Ambiental e Sanitária na Universidade Federal de Alagoas, sendo infiltrada no ICBS sendo membro do Laboratório de Conservação no Século 21 e no CTEC sou integrante do Programa Especial de Capacitação Discente - PEC. 
+Meu nome é Nicolli, mas geralmente meus amigos me chamam de Nic. Nascida e criada em Maceió, sou estudante de Engenharia Ambiental e Sanitária na Universidade Federal de Alagoas. Sou bolsista de Iniciação Científica do Laboratório de Conservação no Século 21 - LACOS 21/ICBS e integrante do Programa Especial de Capacitação Discente - PEC/CTEC. 
 
 Programo em algumas linguagens, dou uma de cantora por aí, escrevo no [Medium](https://medium.com/@nicolli) e me interesso muito pelas questões sociais e ambientais. Além disso, estou voltando a ler mais frequentemente, e por isso, minhas principais aquisições tem sido livros.
 
