@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: " ---------------- "
+  - title: "---------"
     url: 
 
   - title: "    Sobre mim     "
@@ -18,5 +18,8 @@ main:
   - title: "  Apresentações   "
     url: https://github.com/nicolli/Apresentacoes
     
-  - title: " ---------------- " 
-    url:
+  - title: "   Materiais      " 
+    url: https://github.com/nicolli/Materiais_Estudo
+  
+  - title: "---------"
+    url: 
