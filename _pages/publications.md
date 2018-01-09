@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publicações"
 permalink: /publications/
 author_profile: true
----
-
-# Trabalhos Publicados 
+--- 
 
 Desde o segundo semestre de graduação, estou envolvida com projetos de extensão/pesquisa. Minha intenção é reunir aqui os trabalhos que
 já publiquei como forma de divulgar o que a universidade tem me permitido realizar ao longo da graduação em Engenharia Ambiental e
@@ -17,10 +15,10 @@ Seguem os títulos dos projetos que já participei, lembrando que qualquer infor
 
 > CADASTRO E IDENTIFICAÇÃO DE ALTERNATIVAS SUSTENTÁVEIS PARA RECUPERAÇÃO DE ÁREAS DE RISCO GEOLÓGICO ALTO E MUITO ALTO EM MACEIÓ/AL
   
-   [Resumo: CADASTRO TERRITORIAL URBANO EM ÁREA DE ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL] (https://github.com/nicolli/Trabalhos_Publicados/blob/master/2014_CAIITE_CTM_Mutange.pdf)
-   [Resumo expandido: CADASTRO TÉCNICO MULTIFINALITÁRIO EM ÁREA DE ALTO E MUITO ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL] (https://github.com/nicolli/Trabalhos_Publicados/blob/master/2015_CONECTE_CTM_Risco_Geol%C3%B3gico.pdf)
-   [Artigo: CRIAÇÃO DE UM BOLETIM PARA O CADASTRO TERRITORIAL MULTIFINALITÁRIO DE ÁREAS DE RISCO GEOLÓGICO NO BAIRRO DO MUTANGE, MACEIÓ - AL] (https://github.com/nicolli/Trabalhos_Publicados/blob/master/2015_GEOALAGOAS_Boletim_CTM_Risco_Geol%C3%B3gico.pdf)
-   [Artigo: PROPOSTA METODOLÓGICA PARA CADASTRO E MAPEAMENTO DE ÁREAS DE RISCO GEOLÓGICO: ESTUDO DE CASO PARA ÁREA DO BAIRRO MUTANGE, MACEIÓ- AL] (https://github.com/nicolli/Trabalhos_Publicados/blob/master/2017_SBGeCTIG_Cadastro_Mapeamento_Risco_Geol%C3%B3gico.pdf)
+   [Resumo: CADASTRO TERRITORIAL URBANO EM ÁREA DE ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL](https://github.com/nicolli/Trabalhos_Publicados/blob/master/2014_CAIITE_CTM_Mutange.pdf)
+   [Resumo expandido: CADASTRO TÉCNICO MULTIFINALITÁRIO EM ÁREA DE ALTO E MUITO ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL](https://github.com/nicolli/Trabalhos_Publicados/blob/master/2015_CONECTE_CTM_Risco_Geol%C3%B3gico.pdf)
+   [Artigo: CRIAÇÃO DE UM BOLETIM PARA O CADASTRO TERRITORIAL MULTIFINALITÁRIO DE ÁREAS DE RISCO GEOLÓGICO NO BAIRRO DO MUTANGE, MACEIÓ - AL](https://github.com/nicolli/Trabalhos_Publicados/blob/master/2015_GEOALAGOAS_Boletim_CTM_Risco_Geol%C3%B3gico.pdf)
+   [Artigo: PROPOSTA METODOLÓGICA PARA CADASTRO E MAPEAMENTO DE ÁREAS DE RISCO GEOLÓGICO: ESTUDO DE CASO PARA ÁREA DO BAIRRO MUTANGE, MACEIÓ- AL](https://github.com/nicolli/Trabalhos_Publicados/blob/master/2017_SBGeCTIG_Cadastro_Mapeamento_Risco_Geol%C3%B3gico.pdf)
 
 ### Projetos de Pesquisa
 
