@@ -16,7 +16,7 @@ main:
     url: /publications/
     
   - title: "  Apresentações   "
-    url: /talks/
+    url: https://github.com/nicolli/Apresentacoes
     
   - title: " ---------------- " 
     url:
