@@ -13,10 +13,10 @@ main:
     url: http://lattes.cnpq.br/8219241762500724
         
   - title: "   Publicações    "
-    url: https://github.com/nicolli/Trabalhos_Publicados
+    url: /publications/
     
   - title: "  Apresentações   "
-    url: https://github.com/nicolli/Apresentacoes
+    url: /talks/
     
   - title: " ---------------- " 
     url:
