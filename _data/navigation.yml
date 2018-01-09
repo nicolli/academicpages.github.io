@@ -6,17 +6,17 @@ main:
   - title: "    Sobre mim     "
     url: /cv/
 
-  - title: " ---------------- "
-    url: 
-    
   - title: "       Blog       "
     url: https://medium.com/@nicolli
-        
-  - title: " ---------------- "
-    url: 
     
-  - title: "        CV        "
+  - title: "       CV         "
     url: http://lattes.cnpq.br/8219241762500724
+        
+  - title: "   Publicações    "
+    url: https://github.com/nicolli/Trabalhos_Publicados
+    
+  - title: "  Apresentações   "
+    url: https://github.com/nicolli/Apresentacoes
     
   - title: " ---------------- " 
     url:
