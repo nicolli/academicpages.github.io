@@ -47,7 +47,7 @@ Reconhecimentos
 
 Mídia
 ======
-* Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão [Aqui!](http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao)
+* Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão <span style="color:blue"> [Aqui!](http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao)</span> 
 * PEC do Centro de Tecnologia oferta curso de visualização de dados em R [Aqui!](http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r)
    
 Capacitações
