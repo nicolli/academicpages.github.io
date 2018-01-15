@@ -64,14 +64,13 @@ Capacitações
 | QGIS  | Idrisi |
 
 * Idiomas
-
-| Idioma | Português |     Inglês    | Espanhol |
 |:------:|:---------:|:-------------:|:--------:|
+| Idioma | Português |     Inglês    | Espanhol |
 |  Nível |   Nativo  | Intermediário |  Básico  |
 
 * Outros
 
-|    Word   |    Excel   | PowerPoint |
 |:---------:|:----------:|:----------:|
+|    Word   |    Excel   | PowerPoint |
 | CorelDraw | Git/Github |   AutoCAD  |
 
