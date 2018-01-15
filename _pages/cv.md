@@ -44,7 +44,12 @@ Reconhecimentos
 ======
 * Cientista do Mês, LACOS 21, 2017
 * Excelência Acadêmica, PIBIC 2016-2017, 2018
-  
+
+Mídia
+======
+* Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão [Aqui!] (http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao)
+* PEC do Centro de Tecnologia oferta curso de visualização de dados em R [Aqui!] (http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r)
+   
 Capacitações
 ======
 * Programação
