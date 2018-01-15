@@ -42,8 +42,8 @@ Experiência
 
 Reconhecimentos
 ======
-* Cientista do Mês, LACOS 21 - 2017
-* Excelência Acadêmica, PIBIC 2016-2017 - 2018
+* Cientista do Mês, LACOS 21, 2017
+* Excelência Acadêmica, PIBIC 2016-2017, 2018
   
 Capacitações
 ======
