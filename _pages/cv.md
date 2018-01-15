@@ -39,8 +39,13 @@ Experiência
 * Tutoria - Disciplina de Engenharia e Sistemas Ambientais
   * 2016 - 2017
   * Supervisor: Dr. Christopher Souza
+
+Reconhecimentos
+======
+* Cientista do Mês, LACOS 21 - 2017
+* Excelência Acadêmica, PIBIC 2016-2017 - 2018
   
-Conhecimentos
+Capacitações
 ======
 * Programação
   * Python
