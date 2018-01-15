@@ -64,6 +64,7 @@ Capacitações
 | QGIS  | Idrisi |
 
 * Idiomas
+
 |:------:|:---------:|:-------------:|:--------:|
 | Idioma | Português |     Inglês    | Espanhol |
 |  Nível |   Nativo  | Intermediário |  Básico  |
