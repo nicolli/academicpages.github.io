@@ -67,7 +67,7 @@ Capacitações
 
 |:------:|:---------:|:-------------:|:--------:|
 | Idioma | Português |     Inglês    | Espanhol |
-|  Nível |   Nativo  | Intermediário |  Básico  |
+| Nível  |  Nativo   | Intermediário |  Básico  |
 
 * Outros
 
