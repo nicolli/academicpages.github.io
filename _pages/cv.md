@@ -17,7 +17,7 @@ Educação
 
 Experiência
 ======
-* Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis em áreas de risco geológico alto e muito alto em Maceió - CECA
+* Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA
   * 2014 - 2016
   * Trabalho em campo no Bairro Mutange
   * Supervisor: PhD. Regla Toujaguez e MsC. Juciela Santos
@@ -54,14 +54,14 @@ Capacitações
 ======
 * Programação
 
-|:--------:|:---:|:--------:|:---------:|:-----:|
-||= Python |= R  |= MATLAB  |= FORTRAN  |= NCL ||
+|:----:|:-:|:----:|:-----:|:-:|
+|Python| R |MATLAB|FORTRAN|NCL|
 
 
 * Geoprocessamento
 
-|:-----:|:------:|
-| QGIS  | Idrisi |
+|:--:|:----:|
+|QGIS|Idrisi|
 
 * Idiomas
 
