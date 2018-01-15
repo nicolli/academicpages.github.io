@@ -54,13 +54,14 @@ Capacitações
 ======
 * Programação
 
-| Python | R | MATLAB | FORTRAN | NCL |
 |:------:|:-:|:------:|:-------:|:---:|
+| Python | R | MATLAB | FORTRAN | NCL |
+
 
 * Geoprocessamento
 
-| QGIS  | Idrisi |
 |:-----:|:------:|
+| QGIS  | Idrisi |
 
 * Idiomas
 
