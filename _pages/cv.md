@@ -52,8 +52,8 @@ Mídia
    
 Capacitações
 ======
-* Programação
 
+|  Linguagens de Programação  |
 |:----:|:-:|:----:|:-----:|:-:|
 |Python| R |MATLAB|FORTRAN|NCL|
 
