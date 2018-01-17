@@ -64,32 +64,27 @@ Capacitações
 |              	|          .            |              .                |   AutoCAD     |
 
 
-<table border="1px">
-  <tr>
-    <td>Aziz</td>
-    <td>26</td>
-  </tr>
-</table>
-
-
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-avcv{font-weight:bold;font-size:14px;background-color:#ffffff;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-scrz{font-weight:bold;background-color:#ffffff;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-j0tj{background-color:#D2E4FC;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-baqh">Programação <br></th>
-    <th class="tg-baqh">Geoprocessamento</th>
-    <th class="tg-baqh">Idiomas</th>
-    <th class="tg-baqh">Outros<br></th>
+    <th class="tg-scrz">Programação <br></th>
+    <th class="tg-scrz">Geoprocessamento</th>
+    <th class="tg-scrz">Idiomas</th>
+    <th class="tg-avcv">Outros<br></th>
   </tr>
   <tr>
-    <td class="tg-baqh">Python</td>
-    <td class="tg-baqh">QGIS<br></td>
-    <td class="tg-baqh">Português - Nativo<br></td>
-    <td class="tg-baqh">Word</td>
+    <td class="tg-j0tj">Python</td>
+    <td class="tg-j0tj">QGIS<br></td>
+    <td class="tg-j0tj">Português - Nativo<br></td>
+    <td class="tg-j0tj">Word</td>
   </tr>
   <tr>
     <td class="tg-baqh">R</td>
@@ -98,21 +93,26 @@ Capacitações
     <td class="tg-baqh">Excel</td>
   </tr>
   <tr>
-    <td class="tg-baqh">MATLAB<br></td>
-    <td class="tg-baqh" rowspan="4"></td>
-    <td class="tg-baqh">Espanhol - Básico<br></td>
-    <td class="tg-baqh">PowerPoint</td>
+    <td class="tg-j0tj">MATLAB<br></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">Espanhol - Básico<br></td>
+    <td class="tg-j0tj">PowerPoint</td>
   </tr>
   <tr>
     <td class="tg-baqh">FORTRAN</td>
-    <td class="tg-baqh" rowspan="3"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
     <td class="tg-baqh">CorelDraw</td>
   </tr>
   <tr>
-    <td class="tg-baqh">NCL</td>
-    <td class="tg-baqh">Git/GitHub</td>
+    <td class="tg-j0tj">NCL</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">Git/GitHub</td>
   </tr>
   <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh">AutoCAD</td>
   </tr>
