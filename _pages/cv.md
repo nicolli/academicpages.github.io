@@ -53,17 +53,14 @@ Mídia
 Capacitações
 ======
 
-<table border="3" align=center>
-     <tr>
-          <td colspan="5">Linguagens de Programação</td>
-     </tr>
-     <tr>
-          <td>Python</td>
-          <td>R</td>
-          <td>MATLAB</td>
-          <td>FORTRAN</td>
-          <td>NCL</td>
-     </tr>
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
 </table>
 
 * Geoprocessamento
