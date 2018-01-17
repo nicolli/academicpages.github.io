@@ -33,7 +33,7 @@ Experiência
 * Programa Especial de Capacitação Discente - PEC - CTEC
   * 2017 -
   * Integrante da Equipe de Marketing
-  * Supervisor: <span style="color:blue">[Alexandre Marques](http://lattes.cnpq.br/1664387016139320)</span) e <span style="color:blue">[Pedro Leonardo Kunty](http://lattes.cnpq.br/6802551727236279)</span>
+  * Supervisor: <span style="color:blue">[Alexandre Marques](http://lattes.cnpq.br/1664387016139320)</span> e <span style="color:blue">[Pedro Leonardo Kunty](http://lattes.cnpq.br/6802551727236279)</span>
 
 
 * Tutoria - Disciplina de Engenharia e Sistemas Ambientais
