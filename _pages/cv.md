@@ -20,25 +20,25 @@ Experiência
 * Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA
   * 2014 - 2016
   * Trabalho em campo no Bairro Mutange
-  * Supervisor: PhD. Regla Toujaguez e MsC. Juciela Santos
+  * Supervisor: <span style="color:blue">[Regla Toujaguez](http://lattes.cnpq.br/6318193945215115)</span> e <span style="color:blue">[Juciela Santos](http://lattes.cnpq.br/8828140324836603)</span>
 
 
 * Laboratório de Conservação no Século 21 - LACOS 21 - ICBS
   * 2016 -
   * Bolsista de Iniciação Científica - PIBIC
   * Comissão de Comunicação
-  * Supervisor: Dra. Ana Malhado e Dr. Richard Ladle
+  * Supervisor: <span style="color:blue">[Ana Malhado](http://lattes.cnpq.br/6689567685438939)</span> e <span style="color:blue">[Richard J.Ladle](http://lattes.cnpq.br/9442171708024416)</span>
 
 
 * Programa Especial de Capacitação Discente - PEC - CTEC
   * 2017 -
   * Integrante da Equipe de Marketing
-  * Supervisor: Dr. Alexandre Marques e Pedro Leonardo Kunty
+  * Supervisor: <span style="color:blue">[Alexandre Marques](http://lattes.cnpq.br/1664387016139320)</span) e <span style="color:blue">[Pedro Leonardo Kunty](http://lattes.cnpq.br/6802551727236279)</span>
 
 
 * Tutoria - Disciplina de Engenharia e Sistemas Ambientais
   * 2016 - 2017
-  * Supervisor: Dr. Christopher Souza
+  * Supervisor: <span style="color:blue">[Christopher Souza](http://lattes.cnpq.br/2437633532556581)</span>
 
 Reconhecimentos
 ======
