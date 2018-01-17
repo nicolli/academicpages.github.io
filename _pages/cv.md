@@ -55,11 +55,11 @@ Capacitações
 
 * Programação
 
-  Python     R      MATLAB
+<center>
 
-***
+  Python     R      MATLAB    FORTRAN     NCL
 
-     FORTRAN     NCL
+</center>
 
 * Geoprocessamento
 
