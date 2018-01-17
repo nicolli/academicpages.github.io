@@ -53,16 +53,13 @@ Mídia
 Capacitações
 ======
 
-<center>
-
 | Programação  	| Geoprocessamento 	|         Idiomas        	|   Outros   	|
 |:------------:	|:----------------:	|:----------------------:	|:----------:	|
 |    Python    	|       QGIS       	|   Português - Nativo   	|    Word    	|
 |       R      	|      IDRISI      	| Inglês - Intermediário 	|    Excel   	|
-|    MATLAB    	|                  	|    Espanhol - Básico   	| PowerPoint 	|
-|    FORTRAN   	|                  	|                        	|  CorelDraw 	|
-|      NCL     	|                  	|                        	| Git/GitHub 	|
-|              	|                  	|                        	|   AutoCAD     |
+|    MATLAB    	|         -         	|    Espanhol - Básico   	| PowerPoint 	|
+|    FORTRAN   	|         -        	|              -          	|  CorelDraw 	|
+|      NCL     	|         -         	|              -          	| Git/GitHub 	|
+|              	|         -         	|              -         	|   AutoCAD     |
 
-</center>
 
