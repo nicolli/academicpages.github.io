@@ -53,24 +53,15 @@ Mídia
 Capacitações
 ======
 
-
-| Programação  	| Geoprocessamento 	|         Idiomas        	|   Outros   	|
-|:-------------:|:---------------------:|:-----------------------------:|:-------------:|
-|    Python    	|       QGIS       	|   Português - Nativo   	|    Word    	|
-|       R      	|      IDRISI      	| Inglês - Intermediário 	|    Excel   	|
-|    MATLAB    	|          .            |    Espanhol - Básico   	| PowerPoint 	|
-|    FORTRAN   	|          .            |              .                |  CorelDraw 	|
-|      NCL     	|          .            |              .                | Git/GitHub 	|
-|              	|          .            |              .                |   AutoCAD     |
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-6f66{background-color:#D2E4FC;font-size:13px;text-align:center;vertical-align:top}
 .tg .tg-avcv{font-weight:bold;font-size:14px;background-color:#ffffff;color:#000000;text-align:center;vertical-align:top}
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-scrz{font-weight:bold;background-color:#ffffff;color:#000000;text-align:center;vertical-align:top}
+.tg .tg-z1yq{font-size:13px;text-align:center;vertical-align:top}
 .tg .tg-j0tj{background-color:#D2E4FC;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
