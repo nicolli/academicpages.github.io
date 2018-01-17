@@ -23,13 +23,18 @@ Seguem os títulos dos projetos que já participei, lembrando que qualquer infor
 
 - PROPOSTA METODOLÓGICA PARA CADASTRO E MAPEAMENTO DE ÁREAS DE RISCO GEOLÓGICO: ESTUDO DE CASO PARA ÁREA DO BAIRRO MUTANGE, MACEIÓ- AL <span style="color:blue"> [Aqui!](https://github.com/nicolli/Trabalhos_Publicados/blob/master/2017_SBGeCTIG_Cadastro_Mapeamento_Risco_Geol%C3%B3gico.pdf)</span>
 
+- Orientação: Regla Toujaguez e Juciela Santos
+
 ### Projetos de Pesquisa
 
-> ÍNDICES DA BIODIVERSIDADE E DE INVESTIMENTO DAS UNIDADES DE CONSERVAÇÃO DE PROTEÇÃO INTEGRAL DO NORDESTE BRASILEIRO
+> PIBIC 2015-2016: ÍNDICES DA BIODIVERSIDADE E DE INVESTIMENTO DAS UNIDADES DE CONSERVAÇÃO DE PROTEÇÃO INTEGRAL DO NORDESTE BRASILEIRO
 - Plano de Trabalho: Completude de inventário da flora em Unidades de Conservação de Proteção Integral do Nordeste brasileiro
+- Orientação: Ana Malhado e Juliana Stropp
 
-> BIOGEOGRAFIA FUNCIONAL DE SEMENTES EM ESPÉCIES LENHOSAS DA CAATINGA
+> PIBIC 2016-2017: BIOGEOGRAFIA FUNCIONAL DE SEMENTES EM ESPÉCIES LENHOSAS DA CAATINGA
 - Plano de Trabalho: Biogeografia Funcional de Sementes em Espécies Lenhosas da Caatinga: Uma abordagem espacial
+- Orientação: Ana Malhado, Juliana Stropp e Adriana Costa
 
-> PROJETO ECOLÓGICO DE LONGA DURAÇÃO (PELD) NA APA COSTA DOS CORAIS: ANÁLISE DE EXTENSÃO E DINÂMICA DE HABITATS E MONITORAMENTO DA ABUNDÂNCIA DE ESPÉCIES-CHAVES
+> PIBIC 2017-2018: PROJETO ECOLÓGICO DE LONGA DURAÇÃO (PELD) NA APA COSTA DOS CORAIS: ANÁLISE DE EXTENSÃO E DINÂMICA DE HABITATS E MONITORAMENTO DA ABUNDÂNCIA DE ESPÉCIES-CHAVES
 - Plano de Trabalho: Monitoramento preciso da distribuição, extensão, dinâmica de habitat e uso do solo na APA Costa dos Corais: Projeto PELD-CCAL
+- Orientação: Richard J. Ladle, Davi Teles e Bárbara Pinheiro
