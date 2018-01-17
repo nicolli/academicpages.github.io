@@ -53,7 +53,7 @@ Mídia
 Capacitações
 ======
 
-<table border="1">
+<table border="3" align=center>
      <tr>
           <td colspan="5">Linguagens de Programação</td>
      </tr>
