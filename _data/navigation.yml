@@ -16,10 +16,10 @@ main:
     url: /publications/
     
   - title: "  Apresentações   "
-    url: https://github.com/nicolli/Apresentacoes
+    url: /apresentacoes/
     
   - title: "   Materiais      " 
-    url: https://github.com/nicolli/Materiais_Estudo
+    url: /materiais/
   
   - title: "---------"
     url: 
