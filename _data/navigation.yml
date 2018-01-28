@@ -4,7 +4,7 @@ main:
     url: 
 
   - title: "    Sobre mim     "
-    url: /cv/
+    url: /sobremim/
 
   - title: "       Blog       "
     url: https://medium.com/@nicolli
@@ -13,7 +13,7 @@ main:
     url: http://lattes.cnpq.br/8219241762500724
         
   - title: "   Publicações    "
-    url: /publications/
+    url: /publicacoes/
     
   - title: "  Apresentações   "
     url: /apresentacoes/
