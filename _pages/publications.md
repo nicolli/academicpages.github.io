@@ -14,10 +14,10 @@ Seguem os títulos dos projetos que já participei, lembrando que qualquer infor
 ### Projetos de Extensão
 
 > CADASTRO E IDENTIFICAÇÃO DE ALTERNATIVAS SUSTENTÁVEIS PARA RECUPERAÇÃO DE ÁREAS DE RISCO GEOLÓGICO ALTO E MUITO ALTO EM MACEIÓ/AL
-- CADASTRO TERRITORIAL URBANO EM ÁREA DE ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL <a href="https://github.com/nicolli/Trabalhos_Publicados/blob/master/2014_CAIITE_CTM_Mutange.pdf">Aqui!</a>
-- CADASTRO TÉCNICO MULTIFINALITÁRIO EM ÁREA DE ALTO E MUITO ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL <a href="https://github.com/nicolli/Trabalhos_Publicados/blob/master/2015_CONECTE_CTM_Risco_Geologico.pdf">Aqui!</a>
-- CRIAÇÃO DE UM BOLETIM PARA O CADASTRO TERRITORIAL MULTIFINALITÁRIO DE ÁREAS DE RISCO GEOLÓGICO NO BAIRRO DO MUTANGE, MACEIÓ - AL <a href="https://github.com/nicolli/Trabalhos_Publicados/blob/master/2015_GEOALAGOAS_Boletim_CTM_Risco_Geologico.pdf">Aqui!</a>
-- PROPOSTA METODOLÓGICA PARA CADASTRO E MAPEAMENTO DE ÁREAS DE RISCO GEOLÓGICO: ESTUDO DE CASO PARA ÁREA DO BAIRRO MUTANGE, MACEIÓ- AL <a href="https://github.com/nicolli/Trabalhos_Publicados/blob/master/2017_SBGeCTIG_Cadastro_Mapeamento_Risco_Geologico.pdf">Aqui!</a>
+- CADASTRO TERRITORIAL URBANO EM ÁREA DE ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL <a href="https://nicolli.github.io/files/2014_CAIITE_CTM_Mutange.pdf">Aqui!</a>
+- CADASTRO TÉCNICO MULTIFINALITÁRIO EM ÁREA DE ALTO E MUITO ALTO RISCO GEOLÓGICO NO BAIRRO MUTANGE, MACEIÓ-AL <a href="https://nicolli.github.io/files/2015_CONECTE_CTM_Risco_Geologico.pdf">Aqui!</a>
+- CRIAÇÃO DE UM BOLETIM PARA O CADASTRO TERRITORIAL MULTIFINALITÁRIO DE ÁREAS DE RISCO GEOLÓGICO NO BAIRRO DO MUTANGE, MACEIÓ - AL <a href="https://nicolli.github.io/files/2015_GEOALAGOAS_Boletim_CTM_Risco_Geologico.pdf">Aqui!</a>
+- PROPOSTA METODOLÓGICA PARA CADASTRO E MAPEAMENTO DE ÁREAS DE RISCO GEOLÓGICO: ESTUDO DE CASO PARA ÁREA DO BAIRRO MUTANGE, MACEIÓ- AL <a href="https://nicolli.github.io/files/2017_SBGeCTIG_Cadastro_Mapeamento_Risco_Geologico.pdf">Aqui!</a>
 - Orientação: Regla Toujaguez e Juciela Santos
 
 ### Projetos de Pesquisa
