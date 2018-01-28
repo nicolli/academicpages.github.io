@@ -8,31 +8,12 @@ author_profile: true
 Foi por observar que, tem muito material espalhado da disciplina de Fenômenos de Transporte 1, que resolvi organizar o que eu tinha. Agora tô repassando pra outro caderno, de forma melhorada e mais organizada tudo o que pude anotar durante o semestre.</p> 
 <p align="justify">Em breve, estarei disponibilizando materiais de outras disciplinas, indicando outros materiais e dando algumas dicas sobre como estudar para cada disciplina.</p>
 
-# Fenômenos de Transporte 1 (Mecânica dos Fluidos)
+# <span style="color:blue"> [Fenômenos de Transporte 1 (Mecânica dos Fluidos)](https://nicolli.github.io/materiais/fenomenosdetransporte1)</span>
 
-  - Propriedades dos Fluidos <span style="font-size:11px;color:blue">Em 28/01/2018!</span>
-  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
-  - Cinemática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
-  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
-  - Material completo <span style="font-size:11px;color:blue">Em breve!</span>
+# <span style="color:blue">[Equações Diferenciais Ordinárias (EDO)](https://nicolli.github.io/materiais/edo) <span style="font-size:11px;color:blue">Em breve!</span></span>
 
-# Equações Diferenciais Ordinárias (EDO) <span style="font-size:11px;color:blue">Em breve!</span>
+# <span style="color:blue">[Cálculo Numérico](https://nicolli.github.io/materiais/cn) <span style="font-size:11px;color:blue">Em breve!</span></span>
 
-  - Equações de Primeira Ordem
-  - Equações de Segunda Ordem
-  - Transformada de Laplace
-
-# Cálculo Numérico <span style="font-size:11px;color:blue">Em breve!</span>
-  
-  - Erros
-  - Zeros de Funções
-  - Soluções de Sistemas Lineares
-  - Solucões de Sistemas Não-Lineares
-  - Interpolação e aproximação
-  - Integração Numérica
-  - Diferenciação numérica
-  - Autovalores e Autovetores
-
-# Geoprocessamento <span style="font-size:11px;color:blue">Em breve!</span>
+# <span style="color:blue">[Geoprocessamento](https://nicolli.github.io/materiais/geoprocessamento) <span style="font-size:11px;color:blue">Em breve!</span></span>
 
 
