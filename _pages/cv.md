@@ -20,25 +20,25 @@ Experiência
 * Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA
   * 2014 - 2016
   * Trabalho em campo no Bairro Mutange
-  * Supervisor: <a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a> e <a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a>
+  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>
 
 
 * Laboratório de Conservação no Século 21 - LACOS 21 - ICBS
   * 2016 - Atual
   * Bolsista de Iniciação Científica - PIBIC
   * Comissão de Comunicação
-  * Supervisor: <a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a> e <a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a>
+  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>
 
 
 * Programa Especial de Capacitação Discente - PEC - CTEC
   * 2017 - Atual
   * Integrante da Equipe de Marketing
-  * Supervisor: <a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a> e <a href="http://lattes.cnpq.br/6802551727236279">Pedro Leonardo Kunty</a>
+  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/6802551727236279">Pedro Leonardo Kunty</a></span>
 
 
 * Tutoria - Disciplina de Engenharia e Sistemas Ambientais
   * 2016 - 2017
-  * Supervisor: <a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a>
+  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>
 
 Reconhecimentos
 ======
@@ -47,8 +47,8 @@ Reconhecimentos
 
 Mídia
 ======
-* Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão <a href="http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao">Aqui!</a>
-* PEC do Centro de Tecnologia oferta curso de visualização de dados em R <a href="http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r">Aqui!</a>
+* Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão <span style="color:blue"><a href="http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao">Aqui!</a></span>
+* PEC do Centro de Tecnologia oferta curso de visualização de dados em R <span style="color:blue"><a href="http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r">Aqui!</a></span>
    
 Capacitações
 ======
