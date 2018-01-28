@@ -24,14 +24,14 @@ Experiência
 
 
 * Laboratório de Conservação no Século 21 - LACOS 21 - ICBS
-  * 2016 -
+  * 2016 - Atual
   * Bolsista de Iniciação Científica - PIBIC
   * Comissão de Comunicação
   * Supervisor: <span style="color:blue">[Ana Malhado](http://lattes.cnpq.br/6689567685438939)</span> e <span style="color:blue">[Richard J.Ladle](http://lattes.cnpq.br/9442171708024416)</span>
 
 
 * Programa Especial de Capacitação Discente - PEC - CTEC
-  * 2017 -
+  * 2017 - Atual
   * Integrante da Equipe de Marketing
   * Supervisor: <span style="color:blue">[Alexandre Marques](http://lattes.cnpq.br/1664387016139320)</span> e <span style="color:blue">[Pedro Leonardo Kunty](http://lattes.cnpq.br/6802551727236279)</span>
 
