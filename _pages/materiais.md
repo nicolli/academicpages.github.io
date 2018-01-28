@@ -5,7 +5,7 @@ permalink: /materiais/
 author_profile: true
 ---
 
-![image](https://nicolli.github.com/images/materiais_estudo.jpg)
+<img src="https://nicolli.github.io/images/materiais_estudo.jpg" style="width:500px;height:600px;"> 
 
 <p align="justify">Tem algum material muito legal de uma disciplina que você já pagou e acha que ele pode ajudar os colegas no futuro? Disponibiliza! Eu sei que tem muitos colegas que repassam cadernos, provas antigas e trabalhos também, mas eu acho que uma boa é deixara divulgação do material mais ampla possível.
 Foi por observar que, tem muito material espalhado da disciplina de Fenômenos de Transporte 1, que resolvi organizar o que eu tinha. Agora tô repassando pra outro caderno, de forma melhorada e mais organizada tudo o que pude anotar durante o semestre.</p> 
