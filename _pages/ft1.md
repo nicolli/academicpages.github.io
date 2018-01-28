@@ -10,7 +10,7 @@ author_profile: true
 
 ### Anotações de aula (2017.1)
 
- - Propriedades dos Fluidos <span style="font-size:11px;color:blue">Em 28/01/2018!</span>
+ - Propriedades dos Fluidos <span style="color:blue;font-size:11px"><a href="https://nicolli.github.io/files/FT1_Propriedades_dos_Fluidos_Nicolli_Albuquerque">Aqui!</a></span>
  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Cinemática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
