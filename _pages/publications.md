@@ -27,7 +27,7 @@ Seguem os títulos dos projetos que já participei, lembrando que qualquer infor
 - Orientação: Ana Malhado e Juliana Stropp
 
 > PIBIC 2016-2017: BIOGEOGRAFIA FUNCIONAL DE SEMENTES EM ESPÉCIES LENHOSAS DA CAATINGA
-- Plano de Trabalho: Biogeografia Funcional de Sementes em Espécies Lenhosas da Caatinga: Uma abordagem espacial
+- Plano de Trabalho: Biogeografia Funcional de Sementes em Espécies Lenhosas da Caatinga: Caracterização da Distribuição Espacial de Espécies com Informação para Peso das Sementes 
 - Orientação: Ana Malhado, Juliana Stropp e Adriana Costa
 
 > PIBIC 2017-2018: PROJETO ECOLÓGICO DE LONGA DURAÇÃO (PELD) NA APA COSTA DOS CORAIS: ANÁLISE DE EXTENSÃO E DINÂMICA DE HABITATS E MONITORAMENTO DA ABUNDÂNCIA DE ESPÉCIES-CHAVES
