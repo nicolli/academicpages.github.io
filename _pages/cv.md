@@ -92,7 +92,7 @@ Capacitações
   <tr>
     <td class="tg-baqh">FORTRAN</td>
     <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">LIBRAS - Rumo ao básico!</td>
     <td class="tg-baqh">CorelDraw</td>
   </tr>
   <tr>
@@ -106,5 +106,11 @@ Capacitações
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh">AutoCAD</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Adobe Illustrator</td>
   </tr>
 </table>
