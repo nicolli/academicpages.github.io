@@ -108,9 +108,9 @@ Capacitações
     <td class="tg-baqh">AutoCAD</td>
   </tr>
   <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">Adobe Illustrator</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">Adobe Illustrator</td>
   </tr>
 </table>
