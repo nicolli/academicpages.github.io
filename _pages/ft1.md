@@ -19,7 +19,7 @@ author_profile: true
 
 ### Minitestes (2017.1)
 
- - Propriedades dos Fluidos <span style="font-size:11px;color:blue">Em 04/02/2018!</span>
+ - Propriedades dos Fluidos <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Minitestes_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Cinemática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
