@@ -10,6 +10,8 @@ author_profile: true
 
  > PIBIC 2016-2017: Biogeografia Funcional de Sementes de Espécies Lenhosas da Caatinga: Caracterização da Distribuição Espacial de Espécies com Informação para Peso das Sementes <span style="color:blue"><a href="http://nicolli.github.io/files/2017_PIBIC_Biogeografia_Funcional_de_Sementes_de_Especies_Lenhosas_da_Caatinga.pdf">Aqui!</a></span>
 
+> inPEC Resultados Parciais PIBIC 2017-2018: Monitoramento preciso da distribuição, extensão, dinâmica de habitat e uso do solo na Área de Proteção Ambiental Costa dos Corais <span style="color:blue"><a href="http://nicolli.github.io/files/2018_PIBIC_APACC_inPEC_resultados_parciais.pdf">Aqui!</a></span>
+
 ### Trabalhos
  > Disciplina de Ecologia: Qual sua visão de mundo? <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Qual_a_sua_visao_de_mundo_Ecologia.pdf">Aqui!</a></span>
    - Trabalho final da disciplina
