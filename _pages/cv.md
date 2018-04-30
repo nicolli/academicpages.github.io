@@ -12,32 +12,32 @@ redirect_from:
 
 Educação
 ======
-* Ensino Médio (Colégio Dinâmico): 2013
-* Graduanda em Engenharia Ambiental e Sanitária (Universidade Federal de Alagoas): 2014 - Atual
+* Ensino Médio (Colégio Dinâmico) - 2013
+* Graduação em Engenharia Ambiental e Sanitária (Universidade Federal de Alagoas): 2014 - Atual
 
 Experiência
 ======
 * Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA
-  * 09/2014 - 03/2016
+  * Setembro de 2014 ~ Março de 2016
   * Trabalho em campo no Bairro Mutange
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>
 
 
-* Laboratório de Conservação no Século 21 - LACOS 21 - ICBS
-  * 04/2016 - Atual
+* Laboratório de Conservação no Século 21 - LACOS 21/ICBS
+  * Abril de 2016 ~ Atual
   * Bolsista de Iniciação Científica (PIBIC)
   * Integrante da Comissão de Comunicação e Eventos
-  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>
+  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard James Ladle</a></span>
 
 
-* Programa Especial de Capacitação Discente - PEC - CTEC
-  * 08/2017 - Atual
+* Programa Especial de Capacitação Discente - PEC/CTEC
+  * Agosto de 2017 ~ Atual
   * Integrante da Equipe de Marketing
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/6802551727236279">Pedro Leonardo Kunty</a></span>
 
 
 * Tutoria - Disciplina de Engenharia e Sistemas Ambientais
-  * 07/2016 - 11/2016; 07/2017- 11/2017
+  * Julho de 2016 ~ Novembro de 2016; Julho de 2017 ~ Novembro de 2017
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>
 
 Reconhecimentos
