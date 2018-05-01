@@ -82,7 +82,7 @@ author:
   avatar           : "avatar.jpg"
   bio              : "Tudo que eu tenho de valor são as minhas memórias"
   location         : "Maceió, Alagoas, Brasil"
-  employer         :
+  employer         : "Universidade Federal de Alagoas"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "albuquerquenicolli@hotmail.com"
   uri              :
@@ -101,7 +101,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/users/62948/nic-albuquerque"
   steam            :
   tumblr           : 
   twitter          : "albuquerquenic"

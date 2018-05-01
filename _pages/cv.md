@@ -12,8 +12,8 @@ redirect_from:
 
 Educação
 ======
-* Ensino Médio (Colégio Dinâmico) - 2013
-* Graduação em Engenharia Ambiental e Sanitária (Universidade Federal de Alagoas): 2014 - Atual
+* Ensino Médio (Colégio Dinâmico): 2013
+* Graduação em Engenharia Ambiental e Sanitária (Universidade Federal de Alagoas): 2014 ~ Atual
 
 Experiência
 ======
