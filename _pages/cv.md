@@ -49,7 +49,8 @@ Mídia
 ======
 * Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão <span style="color:blue"><a href="http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao">Aqui!</a></span>
 * PEC do Centro de Tecnologia oferta curso de visualização de dados em R <span style="color:blue"><a href="http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r">Aqui!</a></span>
-*    
+* Fapeal avança em divulgação científica e apresenta balanço do triênio 2015-2017 <span style="color:blue"><a href="http://www.agenciaalagoas.al.gov.br/noticia/item/23903-fapeal-avanca-em-divulgacao-cientifica-e-apresenta-balanco-do-trienio-2015-2017">Aqui!</a></span>    
+
 Capacitações
 ======
 
@@ -66,15 +67,14 @@ Capacitações
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-scrz"><b>Programação</b><br></th>
-    <th class="tg-scrz"><b>Geoprocessamento</b></th>
-    <th class="tg-scrz"><b>Idiomas</b></th>
-    <th class="tg-avcv"><b>Outros</b><br></th>
+    <th class="tg-scrz">Programação <br></th>
+    <th class="tg-scrz">Geoprocessamento</th>
+    <th class="tg-scrz">Idiomas</th>
+    <th class="tg-avcv">Outros<br></th>
   </tr>
   <tr>
     <td class="tg-j0tj">Python</td>
     <td class="tg-j0tj">QGIS<br></td>
-    <td class="tg-j0tj">Português - Nativo<br></td>
     <td class="tg-j0tj">Português - Nativo<br></td>
     <td class="tg-j0tj">CorelDraw</td>
   </tr>
