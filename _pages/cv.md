@@ -111,6 +111,3 @@ Capacitações
   
 </table>
 ---
-layout: archive
-title: "Sobre mim"
-permalink: /sobremim/
