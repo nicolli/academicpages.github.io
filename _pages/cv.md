@@ -17,7 +17,7 @@ Educação
 
 Experiência
 ======
-* * Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA*
+* **Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA**
   * Setembro de 2014 ~ Março de 2016
   * Trabalho em campo no Bairro Mutange
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>
