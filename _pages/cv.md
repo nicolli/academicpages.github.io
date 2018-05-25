@@ -103,12 +103,10 @@ Capacitações
     <td class="tg-j0tj">LateX</td>
   </tr>
   <tr>
-    <td class="tg-j0tj"></td>
-    <td class="tg-j0tj"></td>
-    <td class="tg-j0tj"></td>
-    <td class="tg-j0tj">Wordpress</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Wordpress</td>
   </tr>
   
-
-
 </table>
