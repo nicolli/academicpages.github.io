@@ -86,13 +86,13 @@ Capacitações
   </tr>
   <tr>
     <td class="tg-j0tj">MATLAB<br></td>
-    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">SPRING</td>
     <td class="tg-j0tj">Espanhol - Básico<br></td>
     <td class="tg-j0tj">PowerPoint</td>
   </tr>
   <tr>
     <td class="tg-baqh">FORTRAN</td>
-    <td class="tg-baqh"></td>
+    <td class="tg-baqh">ENVI</td>
     <td class="tg-baqh">LIBRAS - Básico</td>
     <td class="tg-baqh">CorelDraw</td>
   </tr>
@@ -114,4 +114,12 @@ Capacitações
     <td class="tg-j0tj"></td>
     <td class="tg-j0tj">Adobe Illustrator</td>
   </tr>
+
+ <tr>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">LateX</td>
+  </tr>
+
 </table>
