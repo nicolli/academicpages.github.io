@@ -21,7 +21,8 @@ author_profile: true
 
 ### Outras
  > Qualquer um pode cozinhar... Ops, programar <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Outros_Qualquer_um_pode_cozinhar_Ops_programar.pdf">Aqui!</a></span>
-   - Apresentação aos calouros de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação 
+   - Apresentação aos calouros de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação
+ 
  > Introdução à Visualização de Dados em R - PEC/CTEC <span style="color:blue"><a href="http://nicolli.github.io/files/Introdução_à_Visualização_de_dados_em_R_PEC.pdf">Aqui!</a></span>
    - Curso de Capacitação ministrado com Bruno Carlos Vieira 
 
