@@ -24,5 +24,6 @@ author_profile: true
    - Apresentação aos calouros de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação
  
  > Introdução à Visualização de Dados em R - PEC/CTEC <span style="color:blue"><a href="http://nicolli.github.io/files/Introdução_à_Visualização_de_dados_em_R_PEC.pdf">Aqui!</a></span>
-   - Curso de Capacitação ministrado com Bruno Carlos Vieira 
-
+   - Curso de Capacitação ministrado com <span style="color:blue"><a href="http://lattes.cnpq.br/3743664701142217">Bruno Carlos Vieira</a></span>
+ 
+ > Introdução à Linguagem R - LACOS 21/ICBS 
