@@ -21,9 +21,14 @@ author_profile: true
 
 ### Outras
  > Qualquer um pode cozinhar... Ops, programar <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Outros_Qualquer_um_pode_cozinhar_Ops_programar.pdf">Aqui!</a></span>
-   - Apresentação aos calouros de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação
+   - Apresentação aos calouros do curso de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação
  
  > Introdução à Visualização de Dados em R - PEC/CTEC <span style="color:blue"><a href="http://nicolli.github.io/files/Introdução_à_Visualização_de_dados_em_R_PEC.pdf">Aqui!</a></span>
    - Curso de Capacitação ministrado com <span style="color:blue"><a href="http://lattes.cnpq.br/3743664701142217">Bruno Carlos Vieira</a></span>
  
- > Introdução à Linguagem R - LACOS 21/ICBS 
+ > Introdução à Linguagem R - LACOS 21/ICBS <span style="color:blue"><a href="http://nicolli.github.io/files/Introducao_a_Linguagem_R_LACOS21.pdf">Aqui!</a></span> 
+   - Link para o código no Github <span style="color:blue"><a href="https://github.com/nicolli/Introducao_a_Linguagem_R/blob/master/Curso_R_LACOS21.R">Aqui!</a></span>
+ > O que é que a UFAL tem? <span style="color:blue"><a href="http://nicolli.github.io/files/O_que_e_que_a_UFAL_tem.pdf">Aqui!</a></span>
+   - Apresentação aos calouros do Curso de Engenharia Ambiental e Sanitária durante o Nivelamento das Engenharias, juntamente com <span style="color:blue"><a href="http://lattes.cnpq.br/3239678088465458">Maria Victoria Rego</a
+></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/5579058954396625">Pietra Alcântara</a
+></span>
