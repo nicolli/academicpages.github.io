@@ -28,7 +28,6 @@ author_profile: true
  
  > Introdução à Linguagem R - LACOS 21/ICBS <span style="color:blue"><a href="http://nicolli.github.io/files/Introducao_a_Linguagem_R_LACOS21.pdf">Aqui!</a></span> 
    - Link para o código no Github <span style="color:blue"><a href="https://github.com/nicolli/Introducao_a_Linguagem_R/blob/master/Curso_R_LACOS21.R">Aqui!</a></span>
+
  > O que é que a UFAL tem? <span style="color:blue"><a href="http://nicolli.github.io/files/O_que_e_que_a_UFAL_tem.pdf">Aqui!</a></span>
-   - Apresentação aos calouros do Curso de Engenharia Ambiental e Sanitária durante o Nivelamento das Engenharias, juntamente com <span style="color:blue"><a href="http://lattes.cnpq.br/3239678088465458">Maria Victoria Rego</a
-></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/5579058954396625">Pietra Alcântara</a
-></span>
+   - Apresentação aos calouros do Curso de Engenharia Ambiental e Sanitária durante o Nivelamento das Engenharias, juntamente com <span style="color:blue"><a href="http://lattes.cnpq.br/3239678088465458">Maria Victoria Rego</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/5579058954396625">Pietra Alcântara</a></span>
