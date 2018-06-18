@@ -9,17 +9,17 @@ author_profile: true
 
 <p align="justify"> Caso você tenha alguma sugestão, dúvida ou correção a fazer em relação aos materiais, fala comigo em qualquer uma das redes sociais ali do lado esquerdo ;) </p>
 
-### Anotações de aula (2017.1)
+### Anotações de aula
 
- - Propriedades dos Fluidos <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
+ - Fundamentos de Fenômenos de Transporte <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Cinemática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Material completo <span style="font-size:11px;color:blue">Em breve!</span>
 
-### Minitestes (2017.1)
+### Minitestes
 
- - Propriedades dos Fluidos <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Minitestes_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
+ - Fundamentos de Fenômenos de Transporte <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Minitestes_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Cinemática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
