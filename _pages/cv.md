@@ -76,37 +76,31 @@ Capacitações
     <td class="tg-j0tj">Python</td>
     <td class="tg-j0tj">QGIS<br></td>
     <td class="tg-j0tj">Português - Nativo<br></td>
-    <td class="tg-j0tj">CorelDraw</td>
+    <td class="tg-j0tj">Git/Github</td>
   </tr>
   <tr>
     <td class="tg-baqh">R</td>
     <td class="tg-baqh">IDRISI<br></td>
     <td class="tg-baqh">Inglês - Intermediário<br></td>
-    <td class="tg-baqh">Git/Github</td>
+    <td class="tg-baqh">AutoCAD</td>
   </tr>
   <tr>
     <td class="tg-j0tj">MATLAB<br></td>
     <td class="tg-j0tj">SPRING</td>
     <td class="tg-j0tj">Espanhol - Básico<br></td>
-    <td class="tg-j0tj">AutoCAD</td>
+    <td class="tg-j0tj">Adobe Illustrator</td>
   </tr>
   <tr>
     <td class="tg-baqh">FORTRAN</td>
-    <td class="tg-baqh">ENVI</td>
+    <td class="tg-baqh"></td>
     <td class="tg-baqh">LIBRAS - Básico</td>
-    <td class="tg-baqh">Adobe Illustrator</td>
+    <td class="tg-baqh">LateX</td>
   </tr>
   <tr>
     <td class="tg-j0tj">NCL</td>
     <td class="tg-j0tj"></td>
     <td class="tg-j0tj"></td>
-    <td class="tg-j0tj">LateX</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh"></td>
-    <td class="tg-baqh">Wordpress</td>
+    <td class="tg-j0tj">Wordpress</td>
   </tr>
   
 </table>
