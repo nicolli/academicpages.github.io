@@ -24,20 +24,20 @@ Experiência
 
 
 * **Laboratório de Conservação no Século 21 - LACOS 21 - ICBS**
-  * 2016 - Atual
+  * 2016 - Atualmente
   * Bolsista de Iniciação Científica - PIBIC
   * Comissão de Comunicação
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>
 
 
 * **Programa Especial de Capacitação Discente - PEC - CTEC**
-  * 2017 - Atual
+  * 2017 - Atualmente
   * Integrante da Equipe de Marketing
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span>, <span style="color:blue"><a href="http://lattes.cnpq.br/8244628866352750">Adelaide Silmara</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/6015947101555081">Joyce Tenório</a></span>
 
 
 * **Tutoria - Disciplina de Engenharia e Sistemas Ambientais**
-  * 2016 - 2017
+  * 2016 - Atualmente
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>
 
 Reconhecimentos
@@ -86,7 +86,7 @@ Capacitações
   </tr>
   <tr>
     <td class="tg-j0tj">MATLAB<br></td>
-    <td class="tg-j0tj">SPRING</td>
+    <td class="tg-j0tj"></td>
     <td class="tg-j0tj">Espanhol - Básico<br></td>
     <td class="tg-j0tj">Adobe Illustrator</td>
   </tr>
