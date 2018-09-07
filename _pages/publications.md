@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publicações"
-permalink: /publicacoes/
+title: "Projetos"
+permalink: /projetos/
 author_profile: true
 --- 
 
@@ -32,4 +32,8 @@ Seguem os títulos dos projetos que já participei, lembrando que qualquer infor
 
 > PIBIC 2017-2018: PROJETO ECOLÓGICO DE LONGA DURAÇÃO (PELD) NA APA COSTA DOS CORAIS: ANÁLISE DE EXTENSÃO E DINÂMICA DE HABITATS E MONITORAMENTO DA ABUNDÂNCIA DE ESPÉCIES-CHAVES
 - Plano de Trabalho: Monitoramento preciso da distribuição, extensão, dinâmica de habitat e uso do solo na APA Costa dos Corais: Projeto PELD-CCAL
+- Orientação: Richard J. Ladle, Davi Teles e Bárbara Pinheiro
+
+> PIBIC 2018-2019: PROJETO ECOLÓGICO DE LONGA DURAÇÃO (PELD) NA APA COSTA DOS CORAIS: ANÁLISE DE EXTENSÃO E DINÂMICA DE HABITATS E MONITORAMENTO DA ABUNDÂNCIA DE ESPÉCIES-CHAVES: FASE II
+- Plano de Trabalho: Análise espaço-temporal do uso do solo nas bacias hidrográficas que desaguam na APA Costa dos Corais: Projeto PELD – CCAL
 - Orientação: Richard J. Ladle, Davi Teles e Bárbara Pinheiro
