@@ -41,7 +41,7 @@ Experiência
   * 2016 - 2017
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>
   * 2018
-  * Supervisor:  Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>
+  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>
 
 Reconhecimentos
 ======
