@@ -32,7 +32,7 @@ Experiência
 
 
 * **Programa Especial de Capacitação Discente - PEC - CTEC**
-  * 2017 - Atual
+  * 2017 a 2018
   * Integrante da Equipe de Marketing
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span>, <span style="color:blue"><a href="http://lattes.cnpq.br/8244628866352750">Adelaide Silmara</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/6015947101555081">Joyce Tenório</a></span>
 
