@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Sobre mim"
+title: ""
 permalink: /sobremim/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 
 Formação
 ======
-** Graduação em Engenharia Ambiental e Sanitária
+* **Graduação em Engenharia Ambiental e Sanitária**
   * Universidade Federal de Alagoas (UFAL)
   * 2014 - Atual
 
