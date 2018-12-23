@@ -21,7 +21,7 @@ author_profile: true
  > Disciplina de Geologia Ambiental: Riscos Geológicos <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Riscos_Geologicos_Geologia_Ambiental.pdf">Aqui!</a></span>
    - Apresentado com <span style="color:blue"><a href="http://lattes.cnpq.br/7413674971962101">Heloisa Vital Domingos</a></span>
 
- > Disciplina de Planejamento e Gestão Ambiental: P+L aplicada à indústria de papel e celulose <span style="color:blue"><a href="http://nicolli.github.io/files/2018_PL_aplicada_industria_papel_celulose_Planejamento_e_Gestao_Ambiental.pdf">Aqui!</a></span>
+ > Disciplina de Planejamento e Gestão Ambiental: P+L Aplicada à Indústria de Papel e Celulose <span style="color:blue"><a href="http://nicolli.github.io/files/2018_PL_aplicada_industria_papel_celulose_Planejamento_e_Gestao_Ambiental.pdf">Aqui!</a></span>
    - Apresentado com <span style="color:blue"><a href="http://lattes.cnpq.br/9594693665713896">Ana Letícia Gaia da Rocha Almeida</a></span>
 
 ### Outras
