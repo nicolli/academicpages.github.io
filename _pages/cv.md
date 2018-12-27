@@ -23,34 +23,38 @@ redirect_from:
   * 2014 a 2016
   * Trabalho em campo no Bairro Mutange
   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span>** e **<span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>**
+
 **Laboratório de Conservação no Século 21 - LACOS 21**
   * Instituto de Ciências Biológicas e da Saúde (ICBS)
   * 2016 - Atualmente
   * Bolsista de Iniciação Científica - PIBIC
   * Comissão de Comunicação
   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span>** e **<span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>**
+
 **Programa Especial de Capacitação Discente - PEC**
   * Centro de Tecnologia (CTEC)
   * 2017 a 2018
   * Integrante da Equipe de Marketing
   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span>**, **<span style="color:blue"><a href="http://lattes.cnpq.br/8244628866352750">Adelaide Silmara</a></span>** e **<span style="color:blue"><a href="http://lattes.cnpq.br/6015947101555081">Joyce Tenório</a></span>**
 
-
 **Tutoria - Disciplina de Engenharia e Sistemas Ambientais**
   * 2016 a 2017
   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>**
   * 2018
-  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>
+  * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>**
 
 > Reconhecimentos
 ======
 Cientista do Mês, LACOS 21 (2017)
+
 Excelência Acadêmica, PIBIC 2016-2017 (2018)
 
 > Na Mídia
 ======
 Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão <span style="color:blue"><a href="http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao">Aqui!</a></span>
+
 PEC do Centro de Tecnologia oferta curso de visualização de dados em R <span style="color:blue"><a href="http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r">Aqui!</a></span>
+
 Fapeal avança em divulgação científica e apresenta balanço do triênio 2015-2017 <span style="color:blue"><a href="http://www.agenciaalagoas.al.gov.br/noticia/item/23903-fapeal-avanca-em-divulgacao-cientifica-e-apresenta-balanco-do-trienio-2015-2017">Aqui!</a></span>    
 
 Capacitações
