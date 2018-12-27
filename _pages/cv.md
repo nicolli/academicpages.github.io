@@ -22,26 +22,26 @@ redirect_from:
    * Centro de Ciências Agrárias (CECA)
    * 2014 a 2016
    * Trabalho em campo no Bairro Mutange
-   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span>** e **<span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>**
+   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>
 
 > **Laboratório de Conservação no Século 21 - LACOS 21**
    * Instituto de Ciências Biológicas e da Saúde (ICBS)
    * 2016 - Atualmente
    * Bolsista de Iniciação Científica - PIBIC
    * Comissão de Comunicação
-   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span>** e **<span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>**
+   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>
 
 > **Programa Especial de Capacitação Discente - PEC**
    * Centro de Tecnologia (CTEC)
    * 2017 a 2018
    * Integrante da Equipe de Marketing
-   * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span>**, **<span style="color:blue"><a href="http://lattes.cnpq.br/8244628866352750">Adelaide Silmara</a></span>** e **<span style="color:blue"><a href="http://lattes.cnpq.br/6015947101555081">Joyce Tenório</a></span>**
+   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span>, <span style="color:blue"><a href="http://lattes.cnpq.br/8244628866352750">Adelaide Silmara</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/6015947101555081">Joyce Tenório</a></span>
 
 > **Tutoria - Disciplina de Engenharia e Sistemas Ambientais**
    * 2016 a 2017
-     * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>**
+     * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>
    * 2018
-     * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>**
+     * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>
 
 ## Reconhecimentos
 
