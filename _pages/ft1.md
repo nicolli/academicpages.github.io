@@ -9,7 +9,7 @@ author_profile: true
 
 <p align="justify"> Caso você tenha alguma sugestão, dúvida ou correção a fazer em relação aos materiais, fala comigo em qualquer uma das redes sociais ali do lado esquerdo ;) </p>
 
-### Anotações de aula
+## Anotações de aula
 
  - Fundamentos de Fenômenos de Transporte <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
@@ -17,7 +17,7 @@ author_profile: true
  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Material completo <span style="font-size:11px;color:blue">Em breve!</span>
 
-### Minitestes
+## Minitestes
 
  - Fundamentos de Fenômenos de Transporte <span style="color:blue;font-size:12px"><a href="https://nicolli.github.io/files/FT1_Minitestes_Propriedades_dos_Fluidos_Nicolli_Albuquerque.pdf">Aqui!</a></span>
  - Estática dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
@@ -25,14 +25,13 @@ author_profile: true
  - Dinâmica dos Fluidos <span style="font-size:11px;color:blue">Em breve!</span>
  - Material completo <span style="font-size:11px;color:blue">Em breve!</span>
 
-### Indicações
+## Indicações
 
-<a href="https://medium.com/@nicolli" class="link-btn">NIC</a>
  - <span style="color:blue">[Roberaldo Carvalho](https://sites.google.com/site/ftctec/material-para-download/fenomenos-de-transporte-1)</span>
  - <span style="color:blue">[Ruberto Fragoso](https://sites.google.com/site/carlosruberto/disciplinas/graduacao/fenomenos-de-transporte-i)</span>
  - <span style="color:blue">[Marllus Neves](https://sites.google.com/site/professormarllusneves/Disciplinas/fenomenos-de-transporte-1)</span>
 
-### Material Extra
+## Material Extra
 
  - <span style="color:blue">[Extras](https://drive.google.com/drive/folders/1gQF8xINsqCOVYTlwyBa_x4oy8KXcIV9P?usp=sharing)</span>
 
