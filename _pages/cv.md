@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-# Formação
+## Formação
 
 > **Graduação em Engenharia Ambiental e Sanitária**
    * Universidade Federal de Alagoas (UFAL)
    * 2014 - Atualmente
 
-# Experiência
+## Experiência
 
 > **Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió**
    * Centro de Ciências Agrárias (CECA)
@@ -43,7 +43,7 @@ redirect_from:
    * 2018
      * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>**
 
-# Reconhecimentos
+## Reconhecimentos
 
 > Cientista do Mês, LACOS 21 (2017)
 
@@ -57,7 +57,7 @@ redirect_from:
 
 > Fapeal avança em divulgação científica e apresenta balanço do triênio 2015-2017 <span style="color:blue"><a href="http://www.agenciaalagoas.al.gov.br/noticia/item/23903-fapeal-avanca-em-divulgacao-cientifica-e-apresenta-balanco-do-trienio-2015-2017">Aqui!</a></span>    
 
-# Capacitações
+## Capacitações
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none;}
