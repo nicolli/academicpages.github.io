@@ -10,45 +10,48 @@ redirect_from:
 {% include base_path %}
 
 
-Formação
+> Formação
 ======
-* **Graduação em Engenharia Ambiental e Sanitária**
+**Graduação em Engenharia Ambiental e Sanitária**
   * Universidade Federal de Alagoas (UFAL)
-  * 2014 - Atual
+  * 2014 - Atualmente
 
-Experiência
+> Experiência
 ======
-* **Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió - CECA**
+**Projeto de Extensão: Cadastro e identificação de alternativas sustentáveis para recuperação de áreas de risco geológico alto e muito alto em Maceió**
+  * Centro de Ciências Agrárias (CECA)
   * 2014 a 2016
   * Trabalho em campo no Bairro Mutange
-  * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>
+  * Supervisor: **<span style="color:blue"><a href="http://lattes.cnpq.br/6318193945215115">Regla Toujaguez</a></span>** e <span style="color:blue"><a href="http://lattes.cnpq.br/8828140324836603">Juciela Santos</a></span>
 
 
-* **Laboratório de Conservação no Século 21 - LACOS 21 - ICBS**
-  * 2016 - Atual
+**Laboratório de Conservação no Século 21 - LACOS 21**
+  * Instituto de Ciências Biológicas e da Saúde (ICBS)
+  * 2016 - Atualmente
   * Bolsista de Iniciação Científica - PIBIC
-  * Comissão de Comunicação e eventos
+  * Comissão de Comunicação
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/6689567685438939">Ana Cláudia Malhado</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/9442171708024416">Richard J. Ladle</a></span>
 
 
-* **Programa Especial de Capacitação Discente - PEC - CTEC**
+**Programa Especial de Capacitação Discente - PEC**
+  * Centro de Tecnologia (CTEC)
   * 2017 a 2018
   * Integrante da Equipe de Marketing
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/1664387016139320">Alexandre Marques</a></span>, <span style="color:blue"><a href="http://lattes.cnpq.br/8244628866352750">Adelaide Silmara</a></span> e <span style="color:blue"><a href="http://lattes.cnpq.br/6015947101555081">Joyce Tenório</a></span>
 
 
-* **Tutoria - Disciplina de Engenharia e Sistemas Ambientais**
-  * 2016 - 2017
+**Tutoria - Disciplina de Engenharia e Sistemas Ambientais**
+  * 2016 a 2017
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/2437633532556581">Christopher Souza</a></span>
   * 2018
   * Supervisor: <span style="color:blue"><a href="http://lattes.cnpq.br/4843589642146932">Marllus Neves</a></span>
 
-Reconhecimentos
+> Reconhecimentos
 ======
-* Cientista do Mês, LACOS 21, 2017
-* Excelência Acadêmica, PIBIC 2016-2017, 2018
+* Cientista do Mês, LACOS 21 (2017)
+* Excelência Acadêmica, PIBIC 2016-2017 (2018)
 
-Na Mídia
+> Na Mídia
 ======
 * Aluna cria campanha no Facebook para divulgar trabalhos de pesquisa e extensão <span style="color:blue"><a href="http://www.ufal.edu.br/noticias/2017/2/aluna-cria-campanha-no-facebook-para-divulgar-e-promover-trabalhos-de-pesquisa-e-extensao">Aqui!</a></span>
 * PEC do Centro de Tecnologia oferta curso de visualização de dados em R <span style="color:blue"><a href="http://www.ufal.edu.br/estudante/noticias/2017/8/estudantes-do-pec-de-tecnologia-ofertam-curso-de-visualizacao-de-dados-em-r">Aqui!</a></span>
