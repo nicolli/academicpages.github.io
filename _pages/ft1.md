@@ -27,6 +27,7 @@ author_profile: true
 
 ### Indicações
 
+<a href="https://medium.com/@nicolli" class="link-btn">NIC</a>
  - <span style="color:blue">[Roberaldo Carvalho](https://sites.google.com/site/ftctec/material-para-download/fenomenos-de-transporte-1)</span>
  - <span style="color:blue">[Ruberto Fragoso](https://sites.google.com/site/carlosruberto/disciplinas/graduacao/fenomenos-de-transporte-i)</span>
  - <span style="color:blue">[Marllus Neves](https://sites.google.com/site/professormarllusneves/Disciplinas/fenomenos-de-transporte-1)</span>
