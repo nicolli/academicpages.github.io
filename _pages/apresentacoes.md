@@ -14,6 +14,8 @@ author_profile: true
 
 > Dezembro de 2018 | **PORO - Compartilhamento de estudos em Hidrologia PIBIC 2018-2019: Análise espaço temporal do uso do solo de bacias hidrográficas que desaguam na Área de Proteção Ambiental Costa dos Corais** <span style="color:blue"><a href="http://nicolli.github.io/files/2018_PIBIC_APACC_PORO_Compartilhamento_Estudos_Hidrologia.pdf">Aqui!</a></span>
 
+> Dezembro de 2018 | **Apresentação Geral da Pesquisa Atual: Análise espaço temporal do uso do solo de bacias hidrográficas que desaguam na Área de Proteção Ambiental Costa dos Corais**  <span style="color:blue"><a href="http://nicolli.github.io/files/2018_Apresentacao_Geral_da_Pesquisa.pdf">Aqui!</a></span>
+
 ## Trabalhos
  > **Disciplina de Ecologia: Qual sua visão de mundo?** <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Qual_a_sua_visao_de_mundo_Ecologia.pdf">Aqui!</a></span>
    - Trabalho final da disciplina
