@@ -26,6 +26,9 @@ author_profile: true
  > **Disciplina de Planejamento e Gestão Ambiental: P+L Aplicada à Indústria de Papel e Celulose** <span style="color:blue"><a href="http://nicolli.github.io/files/2018_PL_aplicada_industria_papel_celulose_Planejamento_e_Gestao_Ambiental.pdf">Aqui!</a></span>
    - Apresentado com <span style="color:blue"><a href="http://lattes.cnpq.br/9594693665713896">Ana Letícia Gaia da Rocha Almeida</a></span>
 
+> **Disciplina de Saúde Ambiental: Seminário sobre Efeitos adversos à saúde humana causados por poluentes químicos ambientais - Endocrine-Disrupting Chemicals: Some Actions of POPs on Female Reproduction** <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Endrocine_Disrupting_Chemicals_Some_Actions_of_POPs_on_Female_Reproduction_Saude_Ambiental.pdf">Aqui!</a></span>
+   - Apresentado com <span style="color:blue"><a href="http://lattes.cnpq.br/7425318690569382">Anna Alice Tenório Lins Bonfim</a></span>
+
 ## Outras
  > **Qualquer um pode cozinhar... Ops, programar** <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Outros_Qualquer_um_pode_cozinhar_Ops_programar.pdf">Aqui!</a></span>
    - Apresentação aos calouros do curso de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação
