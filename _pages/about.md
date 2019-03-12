@@ -12,4 +12,4 @@ redirect_from:
 
 <p align="justify">Pois bem, sou a Nicolli, geralmente atendendo por Nic. Nascida e criada no Paraíso das Águas, cidade de Maceió - AL. Sou graduanda em Engenharia Ambiental e Sanitária e pesquisadora do Laboratório de Conservação no Século 21 (LACOS 21), lotado no Instituto de Ciências Biológicas e da Saúde, na Universidade Federal de Alagoas. Creio que a graduação que escolhi expressa bem a busca pelo conhecimento, pois a questão “meio ambiente” abrange-o de forma vasta.</p>
 
-<p align="justify">Programo em algumas linguagens, às vezes dou uma de cantora por aí, escrevo no Medium e me interesso pela causa da divulgação científica e pelas questões sociais e ambientais. A intenção desse site é centralizar as informações relacionadas à mim, ao que estudo e estou pesquisando.</p>
+<p align="justify">Programo em algumas linguagens, às vezes dou uma de cantora e bailarina por aí, escrevo textinhos e textões pelas redes sociais e me interesso pela causa da divulgação científica, além das questões sociais e ambientais. A intenção desse site é centralizar as informações relacionadas à mim, ao que estudo e estou pesquisando.</p>
