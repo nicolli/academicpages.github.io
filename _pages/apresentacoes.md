@@ -44,3 +44,5 @@ author_profile: true
  
  > **Nuvens de Oportunidades**  <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Nuvens_de_Oportunidades.pdf">Aqui!</a></span>
 
+ > **Polinômios: Manipulações Algébricas e Divisão de Polinômios**  <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Polinomios_Nivelamento_2019_Nicolli.pdf">Aqui!</a></span>
+
