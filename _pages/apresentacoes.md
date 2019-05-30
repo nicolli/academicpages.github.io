@@ -16,7 +16,7 @@ author_profile: true
 
 > Maio de 2019 | **Apresentação Geral da Pesquisa Atual: Análise espaço-temporal do uso do solo em bacias hidrográficas que desaguam na Área de Proteção Ambiental Costa dos Corais**  <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Apresentacao_Geral_da_Pesquisa.pdf">Aqui!</a></span>
 
-> Maio de 2019 | **Imersão LACOS 21 - 26 de Maio**  <span style="color:blue"><a href="http://nicolli.github.
+> Maio de 2019 | **Imersão LACOS 21: 26 de Maio**  <span style="color:blue"><a href="http://nicolli.github.
 io/files/2019_Imersão_26_Maio_Nicolli_Albuquerque.pdf">Aqui!</a></span>
  
 ## Trabalhos
