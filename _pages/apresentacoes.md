@@ -14,8 +14,11 @@ author_profile: true
 
 > Dezembro de 2018 | **PORO - Compartilhamento de estudos em Hidrologia PIBIC 2018-2019: Análise espaço temporal do uso do solo de bacias hidrográficas que desaguam na Área de Proteção Ambiental Costa dos Corais** <span style="color:blue"><a href="http://nicolli.github.io/files/2018_PIBIC_APACC_PORO_Compartilhamento_Estudos_Hidrologia.pdf">Aqui!</a></span>
 
-> Março de 2019 | **Apresentação Geral da Pesquisa Atual: Análise espaço-temporal do uso do solo de bacias hidrográficas que desaguam na Área de Proteção Ambiental Costa dos Corais**  <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Apresentacao_Geral_da_Pesquisa.pdf">Aqui!</a></span>
+> Maio de 2019 | **Apresentação Geral da Pesquisa Atual: Análise espaço-temporal do uso do solo em bacias hidrográficas que desaguam na Área de Proteção Ambiental Costa dos Corais**  <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Apresentacao_Geral_da_Pesquisa.pdf">Aqui!</a></span>
 
+> Maio de 2019 | **Imersão LACOS 21 - 26 de Maio**  <span style="color:blue"><a href="http://nicolli.github.
+io/files/2019_Imersão_26_Maio_Nicolli_Albuquerque.pdf">Aqui!</a></span>
+ 
 ## Trabalhos
  > **Disciplina de Ecologia: Qual sua visão de mundo?** <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Qual_a_sua_visao_de_mundo_Ecologia.pdf">Aqui!</a></span>
    - Trabalho final da disciplina
@@ -31,7 +34,7 @@ author_profile: true
 
 ## Outras
  > **Qualquer um pode cozinhar... Ops, programar** <span style="color:blue"><a href="http://nicolli.github.io/files/2017_Outros_Qualquer_um_pode_cozinhar_Ops_programar.pdf">Aqui!</a></span>
-   - Apresentação aos calouros do curso de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação
+   - Apresentação aos calouros do curso de Engenharia Ambiental e Sanitária na disciplina de Introdução à Computação ministrada pelo Dr. Christopher Freire Souza
  
  > **Introdução à Visualização de Dados em R - PEC/CTEC** <span style="color:blue"><a href="http://nicolli.github.io/files/Introdução_à_Visualização_de_dados_em_R_PEC.pdf">Aqui!</a></span>
    - Curso de Capacitação ministrado com <span style="color:blue"><a href="http://lattes.cnpq.br/3743664701142217">Bruno Carlos Vieira</a></span>
@@ -46,3 +49,6 @@ author_profile: true
 
  > **Polinômios: Manipulações Algébricas e Divisão de Polinômios**  <span style="color:blue"><a href="http://nicolli.github.io/files/2019_Polinomios_Nivelamento_2019_Nicolli.pdf">Aqui!</a></span>
 
+ > **Percepções e Vivências em Divulgação Científica**  <span style="color:blue"><a href="http://nicolli.git
+hub.io/files/2019_Percepcoes_Vivencias_DC.pdf">Aqui!</a></span>
+ - Apresentação aos alunos do Curso de Ciências Biológicas na disciplina de Divulgação Científica ministrada pela Dra. Ana Cláudia Mendes Malhado
