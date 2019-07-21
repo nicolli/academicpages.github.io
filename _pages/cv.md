@@ -108,10 +108,9 @@ redirect_from:
     <td class="tg-j0tj">Wordpress</td>
   </tr>
    <tr>
-    <td class="tg-j0tj">JavaScript</td>
-    <td class="tg-j0tj"></td>
-    <td class="tg-j0tj"></td>
-    <td class="tg-j0tj">Google Earth Engine</td>
+    <td class="tg-baqh">JavaScript</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Google Earth Engine</td>
   </tr>
-</table>
----
+</table>---
