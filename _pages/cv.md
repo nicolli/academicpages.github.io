@@ -76,11 +76,13 @@ redirect_from:
     <th class="tg-scrz">Geoprocessamento</th>
     <th class="tg-scrz">Idiomas</th>
     <th class="tg-avcv">Outros<br></th>
+    <th class="tg-avcv">Outros<br></th>
   </tr>
   <tr>
     <td class="tg-j0tj">Python</td>
     <td class="tg-j0tj">QGIS<br></td>
     <td class="tg-j0tj">Português - Nativo<br></td>
+    <td class="tg-j0tj">Git/Github</td>
     <td class="tg-j0tj">Git/Github</td>
   </tr>
   <tr>
@@ -88,30 +90,35 @@ redirect_from:
     <td class="tg-baqh">IDRISI<br></td>
     <td class="tg-baqh">Inglês - Intermediário<br></td>
     <td class="tg-baqh">AutoCAD</td>
+    <td class="tg-j0tj">Git/Github</td>
   </tr>
   <tr>
     <td class="tg-j0tj">MATLAB<br></td>
     <td class="tg-j0tj"></td>
     <td class="tg-j0tj">Espanhol - Básico<br></td>
     <td class="tg-j0tj">Adobe Illustrator</td>
+    <td class="tg-j0tj">Git/Github</td>
   </tr>
   <tr>
     <td class="tg-baqh">FORTRAN</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh">LIBRAS - Básico</td>
     <td class="tg-baqh">LateX</td>
+    <td class="tg-j0tj">Git/Github</td>
   </tr>
   <tr>
     <td class="tg-j0tj">NCL</td>
     <td class="tg-j0tj"></td>
     <td class="tg-j0tj"></td>
     <td class="tg-j0tj">Wordpress</td>
+    <td class="tg-j0tj">Git/Github</td>
   </tr>
    <tr>
     <td class="tg-baqh">JavaScript</td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh"></td>
     <td class="tg-baqh">Google Earth Engine</td>
+    <td class="tg-j0tj">Git/Github</td>
   </tr>
 </table>
 
