@@ -263,14 +263,6 @@ redirect_from:
 </tr>
 
 <tr>
-<td>LateX</td>
-<td>Curso Presencial</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
 <td>WordPress</td>
 <td>Curso Presencial e Manutenção de Sites</td>
 <td></td>
