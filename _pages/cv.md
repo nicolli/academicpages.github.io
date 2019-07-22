@@ -113,39 +113,10 @@ redirect_from:
     <td class="tg-baqh"></td>
     <td class="tg-baqh">Google Earth Engine</td>
   </tr>
-</table>---
+</table>
 
+<table>
 
-<style>
-#customers {
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-#customers td, #customers th {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-#customers tr:nth-child(even){background-color: #f2f2f2;}
-
-#customers tr:hover {background-color: #ddd;}
-
-#customers th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  text-align: center;
-  background-color: #4CAF50;
-  color: white;
-}
-</style>
-</head>
-<body>
-
-<table id="customers">
-
-<!-- First row -->
 
 <tr>
 <td rowspan=2>Habilidade</td>
