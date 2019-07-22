@@ -116,260 +116,208 @@ redirect_from:
 </table>---
 
 
-<div class="wrapper">
-  
-  <div class="table">
-    
-    <div class="row header">
-      <div class="cell">
-        Name
-      </div>
-      <div class="cell">
-        Age
-      </div>
-      <div class="cell">
-        Occupation
-      </div>
-      <div class="cell">
-        Location
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Name">
-        Luke Peters
-      </div>
-      <div class="cell" data-title="Age">
-        25
-      </div>
-      <div class="cell" data-title="Occupation">
-        Freelance Web Developer
-      </div>
-      <div class="cell" data-title="Location">
-        Brookline, MA
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Name">
-        Joseph Smith
-      </div>
-      <div class="cell" data-title="Age">
-        27
-      </div>
-      <div class="cell" data-title="Occupation">
-        Project Manager
-      </div>
-      <div class="cell" data-title="Location">
-        Somerville, MA
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Name">
-        Maxwell Johnson
-      </div>
-      <div class="cell" data-title="Age">
-        26
-      </div>
-      <div class="cell" data-title="Occupation">
-        UX Architect & Designer
-      </div>
-      <div class="cell" data-title="Location">
-        Arlington, MA
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Name">
-        Harry Harrison
-      </div>
-      <div class="cell" data-title="Age">
-        25
-      </div>
-      <div class="cell" data-title="Occupation">
-        Front-End Developer
-      </div>
-      <div class="cell" data-title="Location">
-        Boston, MA
-      </div>
-    </div>
-    
-  </div>
-  
-  <div class="table">
-    
-    <div class="row header green">
-      <div class="cell">
-        Product
-      </div>
-      <div class="cell">
-        Unit Price
-      </div>
-      <div class="cell">
-        Quantity
-      </div>
-      <div class="cell">
-        Date Sold
-      </div>
-      <div class="cell">
-        Status
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Product">
-        Solid oak work table
-      </div>
-      <div class="cell" data-title="Unit Price">
-        $800
-      </div>
-      <div class="cell" data-title="Quantity">
-        10
-      </div>
-      <div class="cell" data-title="Date Sold">
-        03/15/2014
-      </div>
-      <div class="cell" data-title="Status">
-        Waiting for Pickup
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Product">
-        Leather iPhone wallet
-      </div>
-      <div class="cell" data-title="Unit Price">
-        $45
-      </div>
-      <div class="cell" data-title="Quantity">
-        120
-      </div>
-      <div class="cell" data-title="Date Sold">
-        02/28/2014
-      </div>
-      <div class="cell" data-title="Status">
-        In Transit
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Product">
-        27" Apple Thunderbolt displays
-      </div>
-      <div class="cell" data-title="Unit Price">
-        $1000
-      </div>
-      <div class="cell" data-title="Quantity">
-        25
-      </div>
-      <div class="cell" data-title="Date Sold">
-        02/10/2014
-      </div>
-      <div class="cell" data-title="Status">
-        Delivered
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Product">
-        Bose studio headphones
-      </div>
-      <div class="cell" data-title="Unit Price">
-        $60
-      </div>
-      <div class="cell" data-title="Quantity">
-        90
-      </div>
-      <div class="cell" data-title="Date Sold">
-        01/14/2014
-      </div>
-      <div class="cell" data-title="Status">
-        Delivered
-      </div>
-    </div>
-    
-  </div>
-  
-  <div class="table">
-    
-    <div class="row header blue">
-      <div class="cell">
-        Username
-      </div>
-      <div class="cell">
-        Email
-      </div>
-      <div class="cell">
-        Password
-      </div>
-      <div class="cell">
-        Active
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Username">
-        ninjalug
-      </div>
-      <div class="cell" data-title="Email">
-        misterninja@hotmail.com
-      </div>
-      <div class="cell" data-title="Password">
-        ************
-      </div>
-      <div class="cell" data-title="Active">
-        Yes
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Username">
-        jsmith41
-      </div>
-      <div class="cell" data-title="Email">
-        joseph.smith@gmail.com
-      </div>
-      <div class="cell" data-title="Password">
-        ************
-      </div>
-      <div class="cell" data-title="Active">
-        No
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Username">
-        1337hax0r15
-      </div>
-      <div class="cell" data-title="Email">
-        hackerdude1000@aol.com
-      </div>
-      <div class="cell" data-title="Password">
-        ************
-      </div>
-      <div class="cell" data-title="Active">
-        Yes
-      </div>
-    </div>
-    
-    <div class="row">
-      <div class="cell" data-title="Username">
-        hairyharry19
-      </div>
-      <div class="cell" data-title="Email">
-        harryharry@gmail.com
-      </div>
-      <div class="cell" data-title="Password">
-        ************
-      </div>
-      <div class="cell" data-title="Active">
-        Yes
-      </div>
-    </div>
-    
-  </div>
-  
-</div>
+<style>
+#customers {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: #f2f2f2;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+</head>
+<body>
+
+<table id="customers">
+
+<!-- First row -->
+
+<tr>
+<td rowspan=2>Habilidade</td>
+<td rowspan=2>Qual?</td>
+<td rowspan=2>Experiência</td>
+<td colspan=3>Nível</td>
+</tr>
+
+<!-- Second row -->
+<tr>
+<td>Básico</td>
+<td>Intermediário</td>
+<td>Avançado</td>
+</tr>
+
+<tr>
+<td rowspan=2>Geoprocessamento</td>
+<td>QGIS</td>
+<td>Cursos e Iniciação Científica</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+
+<tr>
+<td>IDRISI</td>
+<td>Disciplina de Geoprocessamento</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td rowspan=4>Idiomas</td>
+<td>Português</td>
+<td>Nativo</td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+
+<tr>
+<td>Inglês</td>
+<td>Ensino básico, Curso online e Aulas particulares</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Espanhol</td>
+<td>Ensino Básico</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>LIBRAS</td>
+<td>Disciplina Eletiva</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<td rowspan=6>Programação</td>
+<td>MATLAB</td>
+<td>Disciplina de Introdução à Computação</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Python</td>
+<td>Disciplina de Introdução à Computação, Cursos Online</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+
+<tr>
+<td>R</td>
+<td>Cursos Online e Pesquisa Científica</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+
+<tr>
+<td>FORTRAN</td>
+<td>Cursos Presencial</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>NCL</td>
+<td>Cursos Presencial</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>JavaScript</td>
+<td>Curso online aplicado ao Google Earth Engine</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<td rowspan=7>Outros</td>
+<td>Git/Github</td>
+<td>Disciplina de Introdução à Ciência de Dados, Implementação e Atualização deste site</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>AutoCAD</td>
+<td>Disciplina de Desenho 2</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Adobe Illustrator</td>
+<td>Curso Presencial, Elaboração de artes para divulgação</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+
+<tr>
+<td>LateX</td>
+<td>Curso Presencial</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>LateX</td>
+<td>Curso Presencial</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td>WordPress</td>
+<td>Curso Presencial e Manutenção de Sites</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Google Earth Engine</td>
+<td>Curso Online, Pesquisa Científica</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+
+</table>
 
 
+   
+      
+  
