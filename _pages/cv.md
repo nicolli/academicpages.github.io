@@ -72,221 +72,148 @@ redirect_from:
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-scrz">Programação <br></th>
-    <th class="tg-scrz">Geoprocessamento</th>
-    <th class="tg-scrz">Idiomas</th>
-    <th class="tg-avcv">Outros<br></th>
-    <th class="tg-avcv">Outros<br></th>
+    <th class="tg-scrz">Habilidade <br></th>
+    <th class="tg-scrz">Qual?</th>
+    <th class="tg-scrz">Básico</th>
+    <th class="tg-avcv">Intermediário<br></th>
+    <th class="tg-avcv">Avançado<br></th>
   </tr>
   <tr>
-    <td class="tg-j0tj">Python</td>
+    <td class="tg-j0tj">Geoprocessamento</td>
     <td class="tg-j0tj">QGIS<br></td>
-    <td class="tg-j0tj">Português - Nativo<br></td>
-    <td class="tg-j0tj">Git/Github</td>
-    <td class="tg-j0tj">Git/Github</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">R</td>
-    <td class="tg-baqh">IDRISI<br></td>
-    <td class="tg-baqh">Inglês - Intermediário<br></td>
-    <td class="tg-baqh">AutoCAD</td>
-    <td class="tg-j0tj">Git/Github</td>
-  </tr>
-  <tr>
-    <td class="tg-j0tj">MATLAB<br></td>
+    <td class="tg-j0tj"><br></td>
+    <td class="tg-j0tj">X</td>
     <td class="tg-j0tj"></td>
-    <td class="tg-j0tj">Espanhol - Básico<br></td>
-    <td class="tg-j0tj">Adobe Illustrator</td>
-    <td class="tg-j0tj">Git/Github</td>
   </tr>
   <tr>
-    <td class="tg-baqh">FORTRAN</td>
     <td class="tg-baqh"></td>
-    <td class="tg-baqh">LIBRAS - Básico</td>
-    <td class="tg-baqh">LateX</td>
-    <td class="tg-j0tj">Git/Github</td>
+    <td class="tg-baqh">IDRISI<br></td>
+    <td class="tg-baqh">X<br></td>
+    <td class="tg-baqh"></td>
+    <td class="tg-j0tj"></td>
   </tr>
   <tr>
-    <td class="tg-j0tj">NCL</td>
+    <td class="tg-j0tj">Programação<br></td>
+    <td class="tg-j0tj">MATLAB</td>
+    <td class="tg-j0tj">X<br></td>
     <td class="tg-j0tj"></td>
     <td class="tg-j0tj"></td>
-    <td class="tg-j0tj">Wordpress</td>
-    <td class="tg-j0tj">Git/Github</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Python</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+  </tr>
+  <tr>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">R</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">X</td>
+    <td class="tg-j0tj"></td>
   </tr>
    <tr>
-    <td class="tg-baqh">JavaScript</td>
     <td class="tg-baqh"></td>
+    <td class="tg-baqh">FORTRAN</td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+
+ <tr>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">NCL</td>
+    <td class="tg-j0tj">X</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+  </tr>
+
+ <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">JavaScript</td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+
+ <tr>
+    <td class="tg-j0tj">Idioma</td>
+    <td class="tg-j0tj">Português</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">X</td>
+  </tr>
+
+ <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">Inglês</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+  </tr>
+ <tr>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">Espanhol</td>
+    <td class="tg-j0tj">X</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+  </tr>
+ <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">LIBRAS</td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+
+<tr>
+    <td class="tg-j0tj">Outros</td>
+    <td class="tg-j0tj">Git/Github</td>
+    <td class="tg-j0tj">X</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj"></td>
+  </tr>
+
+ <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">AutoCAD</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+  </tr>
+
+<tr>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">Adobe Illustrator</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">X</td>
+    <td class="tg-j0tj"></td>
+  </tr>
+
+ <tr>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh">LaTeX</td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
+  </tr>
+
+<tr>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">Wordpress</td>
+    <td class="tg-j0tj"></td>
+    <td class="tg-j0tj">X</td>
+    <td class="tg-j0tj"></td>
+  </tr>
+ <tr>
     <td class="tg-baqh"></td>
     <td class="tg-baqh">Google Earth Engine</td>
-    <td class="tg-j0tj">Git/Github</td>
+    <td class="tg-baqh">X</td>
+    <td class="tg-baqh"></td>
+    <td class="tg-baqh"></td>
   </tr>
 </table>
-
-<table>
-
-
-<tr>
-<td rowspan=2>Habilidade</td>
-<td rowspan=2>Qual?</td>
-<td rowspan=2>Experiência</td>
-<td colspan=3>Nível</td>
-</tr>
-
-<!-- Second row -->
-<tr>
-<td>Básico</td>
-<td>Intermediário</td>
-<td>Avançado</td>
-</tr>
-
-<tr>
-<td rowspan=2>Geoprocessamento</td>
-<td>QGIS</td>
-<td>Cursos e Iniciação Científica</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-
-<tr>
-<td>IDRISI</td>
-<td>Disciplina de Geoprocessamento</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td rowspan=4>Idiomas</td>
-<td>Português</td>
-<td>Nativo</td>
-<td></td>
-<td></td>
-<td>X</td>
-</tr>
-
-<tr>
-<td>Inglês</td>
-<td>Ensino básico, Curso online e Aulas particulares</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Espanhol</td>
-<td>Ensino Básico</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>LIBRAS</td>
-<td>Disciplina Eletiva</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<td rowspan=6>Programação</td>
-<td>MATLAB</td>
-<td>Disciplina de Introdução à Computação</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Python</td>
-<td>Disciplina de Introdução à Computação, Cursos Online</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-
-<tr>
-<td>R</td>
-<td>Cursos Online e Pesquisa Científica</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-
-<tr>
-<td>FORTRAN</td>
-<td>Cursos Presencial</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>NCL</td>
-<td>Cursos Presencial</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>JavaScript</td>
-<td>Curso online aplicado ao Google Earth Engine</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<td rowspan=7>Outros</td>
-<td>Git/Github</td>
-<td>Disciplina de Introdução à Ciência de Dados, Implementação e Atualização deste site</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>AutoCAD</td>
-<td>Disciplina de Desenho 2</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>Adobe Illustrator</td>
-<td>Curso Presencial, Elaboração de artes para divulgação</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-
-<tr>
-<td>LateX</td>
-<td>Curso Presencial</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-<tr>
-<td>WordPress</td>
-<td>Curso Presencial e Manutenção de Sites</td>
-<td></td>
-<td>X</td>
-<td></td>
-</tr>
-
-<tr>
-<td>Google Earth Engine</td>
-<td>Curso Online, Pesquisa Científica</td>
-<td>X</td>
-<td></td>
-<td></td>
-</tr>
-
-</table>
-
 
    
       
