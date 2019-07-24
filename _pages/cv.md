@@ -57,7 +57,7 @@ redirect_from:
 
 > Fapeal avança em divulgação científica e apresenta balanço do triênio 2015-2017 <span style="color:blue"><a href="http://www.agenciaalagoas.al.gov.br/noticia/item/23903-fapeal-avanca-em-divulgacao-cientifica-e-apresenta-balanco-do-trienio-2015-2017">Aqui!</a></span>    
 
-## Capacitações
+## Idiomas e Ferramentas
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;border:none;}
@@ -84,13 +84,13 @@ redirect_from:
     <td class="tg-j0tj"><br></td>
     <td class="tg-j0tj">X</td>
     <td class="tg-j0tj"></td>
-  </tr>
+ </tr>
   <tr>
     <td class="tg-baqh"></td>
     <td class="tg-baqh">IDRISI<br></td>
     <td class="tg-baqh">X<br></td>
     <td class="tg-baqh"></td>
-    <td class="tg-j0tj"></td>
+    <td class="tg-baqh"></td>
   </tr>
   <tr>
     <td class="tg-j0tj">Programação<br></td>
